@@ -1,0 +1,14 @@
+{
+  "name": "@utsuke/prettier-config",
+  "version": "1.0.1",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "git@github.com:utsuke-inc/prettier-config.git",
+  "homepage": "https://github.com/utsuke-inc/prettier-config",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
